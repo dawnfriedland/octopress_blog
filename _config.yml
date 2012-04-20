@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://railsblog.barklouder.com
+title: Rails Blog
+subtitle: Keeping Track of Everything I Learn
+author: Dawn Friedland
 simple_search: http://google.com/search
-description:
+description: Capturing everything I learn as I embark on a new career as a Rails Developer...so I can remember it all. 
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in

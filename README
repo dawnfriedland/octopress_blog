@@ -1,0 +1,7 @@
+My first attempt at an Octopress blog. 
+
+TODO: 
+Figure out what email to put in the _config.yml for the following fields:
+subscribe_rss: /atom.xml
+subscribe_email:
+
