@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Alfred"
+date: 2012-04-21 09:18
+comments: true
+categories: [productivity, apps]
+---
+Watching my favorite show, Downtown Abbey, I realize how having a cleaning lady come to my house is similar in many ways to the staff of live-in maids the Crawley family enjoyed. The depth and breadth of what the Crawley maids did is far greater than what my cleaning lady does. But the key thing was that they appeared when they were needed, and disappeared when the task was done. The Crawley's would ring a bell; I have leave a check on the whiteboard on cleaning day. Either way, there is always an action one has to take to ask for help. 
+
+Writing code has parallels to managing a household. Mundane tasks can be made easier by employing the use of a helper. 
+
+Alfred is my new helper. 
+
+I am discovering the joys of Alfred's ability to meet my needs, doing the grunt work just when I want, and disappearing into the background when not needed. Always available at my beck and call, Alfred is my clipboard servant. 
+
+Prior to Alfred, when I wanted to copy/paste, I had to go get the thing I wanted, maybe pick up the mouse, highlight, right-click, select copy, move over to where I wanted to paste, put my cursor in the right place, and then finally Ctrl-V....and I could only do this with one item in the clipboard queue at a time. 
+
+Now, with Alfred, I can do option, splat C and see my clipboard history, arrow up or down to select the one I want and hit Enter. 
+
+This automatically pastes the value in the window which had the focus before I invoked Alfred. 
+
+This just cut 7 steps down to 3: Splat C, arrow up/down, and Enter.
+
+Cool.
